@@ -149,4 +149,9 @@ form{
         height: 100vh;
     }
 
+    .fa {
+        padding: 3px;
+        font-size: 14px;
+    }
+
 }
